@@ -28,6 +28,7 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 # Features
 - Login form with validation
 - Search and filter movie
+- Search suggestion
 - Fetch data from TMDB Database
 - Get movie details
 - Navigate page
