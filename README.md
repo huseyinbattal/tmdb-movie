@@ -30,7 +30,8 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 - Fetch popular movies from TMDB Database
 - Get movie details
 - Navigate page
-- Deploying on Vercel
+- Save login information to localStrogae
+- Deploy on Vercel
 
 ## Screenshot
 
