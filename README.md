@@ -28,7 +28,7 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 # Features
 - Login form
 - Search and filter movie
-- Fetch popular movies from TMDB Database
+- Fetch data from TMDB Database
 - Get movie details
 - Navigate page
 - Save login information to localStrogae
