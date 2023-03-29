@@ -26,7 +26,7 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 - Axios
 
 # Features
-- Login form with validation
+- Login form validation
 - Search and filter movie
 - Search suggestion
 - Fetch data from TMDB Database
