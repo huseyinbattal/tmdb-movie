@@ -4,11 +4,9 @@
 
 First, run the development server:
 
-git clone https://github.com/huseyinbattal/tmdb-movie
-
-cd tmdb-movie
-
 ```bash
+git clone https://github.com/huseyinbattal/tmdb-movie
+cd tmdb-movie
 npm install
 npm start
 # or
@@ -18,6 +16,9 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
+
+## Watch demo on Youtube
+Click here to watch [Demo Video](https://www.youtube.com/watch?v=-0WSN8MAZjI) on Youtube
 
 # Technologies
 - React.JS
@@ -61,10 +62,6 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 18. Die Hart
 19. Shark Side of the Moon
 20. Creed III
-
-## Watch demo on Youtube
-
-Click here to watch [Demo Video](https://www.youtube.com/watch?v=-0WSN8MAZjI) on Youtube
 
 ## Screenshot
 
