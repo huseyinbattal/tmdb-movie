@@ -21,6 +21,15 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 - React Router Dom
 - Axios
 
+# Features
+- Login form with validation
+- Search and filter movie
+- Fetch data from TMDB Database
+- Get movie details
+- Navigate page
+- Save login information to localStrogae
+- Deploy on Vercel
+
 # API
 - TMDB API
 - https://api.themoviedb.org/3/movie/popular?api_key=${process.env.API_KEY}
@@ -47,14 +56,7 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 19. Shark Side of the Moon
 20. Creed III
 
-# Features
-- Login form with validation
-- Search and filter movie
-- Fetch data from TMDB Database
-- Get movie details
-- Navigate page
-- Save login information to localStrogae
-- Deploy on Vercel
+
 
 ## Screenshot
 
