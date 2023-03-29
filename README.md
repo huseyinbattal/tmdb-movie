@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 
-## Watch demo on Youtube
+## Watch the demo video on Youtube
 Click here to watch [Demo Video](https://www.youtube.com/watch?v=-0WSN8MAZjI) on Youtube
 
 # Technologies
