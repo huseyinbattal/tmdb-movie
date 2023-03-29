@@ -11,6 +11,7 @@ npm install
 npm start
 # or
 yarn dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -33,7 +34,7 @@ Click here to watch [Demo Video](https://www.youtube.com/watch?v=-0WSN8MAZjI) on
 - Fetch data from TMDB Database
 - Get movie details
 - Navigate page
-- Save login information to localStrogae
+- Save login information to localStorage
 - Responsive design
 - Deploy on Vercel
 
