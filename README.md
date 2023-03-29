@@ -22,7 +22,7 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 - Axios
 
 # API
-- TMDB
+- TMDB API
 - https://api.themoviedb.org/3/movie/popular?api_key=${process.env.API_KEY}
 
 # Features
