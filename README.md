@@ -36,7 +36,7 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 
 # API
 - TMDB API
-- https://api.themoviedb.org/3/movie/popular?api_key=${API_KEY}
+- https://api.themoviedb.org/3/movie/popular?api_key=${API_KEY}`
 
 # Movie List (Popular)
 1. Avatar: The Way of Water
