@@ -4,6 +4,10 @@
 
 First, run the development server:
 
+git clone https://github.com/huseyinbattal/tmdb-movie
+
+cd tmdb-movie
+
 ```bash
 npm install
 npm start
