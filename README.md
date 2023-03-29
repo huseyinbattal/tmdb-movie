@@ -26,7 +26,7 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 - https://api.themoviedb.org/3/movie/popular?api_key=${process.env.API_KEY}
 
 # Features
-- Login form
+- Login form with validation
 - Search and filter movie
 - Fetch data from TMDB Database
 - Get movie details
