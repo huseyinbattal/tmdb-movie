@@ -1,23 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import LoginPage from "./components/LoginPage";
+import { Routes, Route } from "react-router-dom";
+import HomePage from "./components/HomePage";
+import React, { useEffect } from "react";
+import { useNavigate } from "react-router-dom";
+import SearchPage from "./components/SerachPage";
 
 function App() {
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    const storedEmail = localStorage.getItem("email");
+    const storedPassword = localStorage.getItem("password");
+
+    if (!storedEmail && !storedPassword) {
+      navigate("/login");
+    }
+
+    window.addEventListener("beforeunload", () => {
+      localStorage.clear();
+    });
+  }, []);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/login" element={<LoginPage />} />
+        <Route path="/search" element={<SearchPage />} />
+      </Routes>
     </div>
   );
 }
