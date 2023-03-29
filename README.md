@@ -25,6 +25,28 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 - TMDB API
 - https://api.themoviedb.org/3/movie/popular?api_key=${process.env.API_KEY}
 
+# Movie List
+1. Avatar: The Way of Water
+2. Winnie the Pooh: Blood and Honey
+3. Cocaine Bear
+4. John Wick: Chapter 4
+5. Puss in Boots: The Last Wish
+6. Prizefighter: The Life of Jem Belcher
+7. The Devil Conspiracy
+8. Knock at the Cabin
+9. Black Panther: Wakanda Forever
+10. Money Shot: The Pornhub Story
+11. Batman: The Doom That Came to Gotham
+12. Consecration
+13. Sayen
+14. Plane
+15. John Wick: Chapter 5
+16. John Wick: Chapter 2
+17. Shazam! Fury of the Gods
+18. Die Hart
+19. Shark Side of the Moon
+20. Creed III
+
 # Features
 - Login form with validation
 - Search and filter movie
