@@ -33,6 +33,7 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 - Get movie details
 - Navigate page
 - Save login information to localStrogae
+- Responsive design
 - Deploy on Vercel
 
 # API
