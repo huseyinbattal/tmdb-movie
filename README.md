@@ -1,6 +1,6 @@
 # TMDB MOVIE APP
 
-##Screenshot
+## Screenshot
 
 <img width="600" alt="Ekran Resmi 2023-03-29 13 52 21" src="https://user-images.githubusercontent.com/95706081/228511661-80a4a876-a651-4958-9eb5-9d39e5917b5a.png">
 
