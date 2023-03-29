@@ -40,7 +40,7 @@ Click here to see the [Live Demo](https://tmdb-movie-seven.vercel.app/)
 - TMDB API
 - `https://api.themoviedb.org/3/movie/popular?api_key=${API_KEY}`
 
-# Movie List (Popular)
+# Movie List (TMDB Database-Popular)
 1. Avatar: The Way of Water
 2. Winnie the Pooh: Blood and Honey
 3. Cocaine Bear
